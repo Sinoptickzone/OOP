@@ -36,7 +36,7 @@ public class App {
             System.out.println(prod);
         }
 
-        //MainFrame myFrame = new MainFrame();
-        //myFrame.initialize();
+        MainFrame myFrame = new MainFrame();
+        myFrame.initialize();
     }
 }
